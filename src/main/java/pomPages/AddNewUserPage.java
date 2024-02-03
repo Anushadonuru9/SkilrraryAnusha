@@ -47,7 +47,7 @@ public class AddNewUserPage {
 		lastname.sendKeys(lastname);
 	}
 	public void setaddress(String address) {
-		emailTF.sendKeys(address);
+		address.sendKeys(address);
 	}
 	public void setContactInfo(String contact) {
 		emailTF.sendKeys(contact);
